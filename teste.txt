@@ -1,0 +1,12 @@
+<p>
+                        Sou um desenvolvedor frontend e backend com experiência em diversas tecnologias modernas.
+                        No frontend, trabalho com <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Tailwind</strong> e <strong>React Native</strong>,
+                        criando interfaces dinâmicas e responsivas.
+                    </p>
+                    <p>
+                        Para o backend, utilizo linguagens como <strong>PHP</strong>, <strong>Java</strong>, <strong>Python</strong> e <strong>C#</strong> desenvolvendo soluções robustas. 
+                        Também tenho conhecimento em bancos de dados como <strong>MySQL</strong> e <strong>SQLite</strong>, garantindo que minhas aplicações sejam eficientes e confiáveis.
+                    </p>
+                    <p>
+                        Se precisar de um profissional que una design, funcionalidade e desempenho, estou à disposição para colaborar em projetos criativos e inovadores!
+                    </p>
